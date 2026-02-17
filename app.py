@@ -6,7 +6,7 @@ app = Flask(__name__)
 def home():
     return """
     <h1>Hello from Azure 🚀</h1>
-    <p>This site is running on Python 3.14</p>
+    <p>This site is running on Python 3.14 GOD BLESS STATES</p>
     """
 
 if __name__ == "__main__":
